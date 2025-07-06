@@ -51,6 +51,7 @@ Open the script in VS Code or run it directly:
 python retail_sales_eda.py
 Visualizations will appear as output, and insights will print to the console or notebook.
 
+###
 Final Thoughts
 
 This project helped strengthen my practical skills in:
